@@ -103,6 +103,8 @@
   Explanation of StarkNet's account abstraction
 - [Test Accounts](https://perama-v.github.io/cairo/examples/test_accounts/) -
   Explanation of building test accounts
+- [Cairo's Adoption Over Time](https://mirror.xyz/astraly.eth/HkePAfkNu3VFYpqJ0pA10yR_i93dQ8PZT0rd2FiPJfY) -
+  A presentation of Cairo and it's evolution with a few metrics
 
 #### Security
 
